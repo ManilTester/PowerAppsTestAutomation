@@ -1,13 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2046
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.PowerApps.TestAutomation.Browser", "Microsoft.PowerApps.TestAutomation.Browser\Microsoft.PowerApps.TestAutomation.Browser.csproj", "{C9748803-F3CB-4531-B313-BC24D4D0BF0C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.PowerApps.TestAutomation.Api", "Microsoft.PowerApps.TestAutomation.Api\Microsoft.PowerApps.TestAutomation.Api.csproj", "{CB621ADC-A2F3-4AD6-8E65-B29DC3034D54}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.PowerApps.TestAutomation.Tests", "Microsoft.PowerApps.TestAutomation.Tests\Microsoft.PowerApps.TestAutomation.Tests.csproj", "{9105FB92-7952-4F1B-9F6F-6769B4B5ED21}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{74331CBB-B127-431C-AC66-3B243D9C8859}"
+	ProjectSection(SolutionItems) = preProject
+		TestAutomationURLs.json = TestAutomationURLs.json
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
